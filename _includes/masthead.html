@@ -5,10 +5,10 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-        <a class="site-logo" href="{{ site.baseurl }}{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}"
+        <a class="site-logo" href="{{ site.baseurl }}{{ '/' | relative_url }}.html"><img src="{{ logo_path | relative_url }}"
                 alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
-        <a class="site-title" href="{{ site.baseurl }}{{ '/' | relative_url }}">
+        <a class="site-title" href="{{ site.baseurl }}{{ '/' | relative_url }}.html">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
@@ -22,12 +22,12 @@
                     {% for firstlevel in link.children %}
                     <li {% if url==firstlevel.url %} class="current" {% endif %}>
                         <a {% if firstlevel.target !=undefined %} target="{{firstlevel.target}}" {% endif %}
-                            href="{{ site.baseurl }}{{ firstlevel.url }}">{{ firstlevel.title }}</a>
+                            href="{{ site.baseurl }}{{ firstlevel.url }}.html">{{ firstlevel.title }}</a>
                     </li>
                     {% endfor %}
                 </ul>
                 {% endif %}
-                <a href="{{ site.baseurl }}{{link.url}}" class="{{link.icon}}">{{link.title}} {% if hasFirst %} <i
+                <a href="{{ site.baseurl }}{{link.url}}.html" class="{{link.icon}}">{{link.title}} {% if hasFirst %} <i
                         class='icon-down-dir-2'></i>{%
                     endif %}</a>
             </li>
