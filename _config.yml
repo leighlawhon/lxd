@@ -22,7 +22,7 @@ title: Leigh Lawhon
 email: leighlawhonQ@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the learning design portfolio for Leigh Lawhon
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lxd" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 atom_feed: 
   hide: true
