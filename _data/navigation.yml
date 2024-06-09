@@ -11,4 +11,6 @@ main:
         url: /pages/capstone
       - title: "Instructional Design Document"
         url: /pages/idd
+      - title: "LDT100x"
+        url: /pages/ldt100x  
   
