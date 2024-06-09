@@ -11,8 +11,10 @@ For my copyright, I decided to not allow my work for commercial use, ask for att
 ## Week 2
 ### Behaviorism
 #### Overview
-Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment.
+Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment. 
+Some key dates in the development of Behaviorism are:
 {% include behaviorism_timeline.html %}
+
 Provide an overview of behaviorism with dates, key researchers, and connections to teaching and learning.
 Discuss the implications of behaviorism for instructional (learning) design.
 Share your opinion on the strengths and limitations of behaviorism in your chosen instructional design context. Examples include education (K–12 or higher education), corporate training, non-profits, or another professional context you are interested in.  
