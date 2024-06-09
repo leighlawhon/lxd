@@ -1,4 +1,4 @@
 ---
 layout: archive
-title:  "Instructional Design Models"
+title:  "Instructional Design Models (LDT200x)"
 ---

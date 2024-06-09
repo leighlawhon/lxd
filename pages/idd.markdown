@@ -1,4 +1,4 @@
 ---
 layout: archive
-title:  "Instructional Design Document"
+title:  "Instructional Design Document (IDD)"
 ---

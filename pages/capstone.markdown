@@ -1,4 +1,4 @@
 ---
 layout: archive
-title:  "Capstone"
+title:  "Capstone (LDT400x)"
 ---
