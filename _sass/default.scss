@@ -20,10 +20,12 @@ h6 {
 }
 h1 {
     color: #103966;
-    font-family: "Waiting for the Sunrise";
+    font-family: "Rubik";
+        font-size: 2em;
 }
 h2 {
     color: #00a8db;
+    font-size: 1.6em;
     font-family: "Rubik";
     font-weight: 700;
 }
@@ -32,11 +34,12 @@ h3.archive__subtitle {
     clear: both;
     color: #00a8db;
     font-family: "Rubik";
-    font-size: 1.35em;
+    font-size: 1.2em;
 }
 h4 {
     font-size: 1em;
-    color: #103966;
+    font-family: "Waiting for the Sunrise";
+        color: #00a8db;
 }
 
 p,
