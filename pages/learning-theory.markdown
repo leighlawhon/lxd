@@ -5,9 +5,14 @@ title:  "Learning Theory (LDT100x)"
 
 
 ## Week 1
+### Copyright
 For my copyright, I decided to not allow my work for commercial use, ask for attribution, to have anyone who adapts my work to use the same license. I did this as I feel it is the fairest approach.
 
 ## Week 2
+### Behaviorism
+#### Overview
+Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment.
+{% include behaviorism_timeline%}
 Provide an overview of behaviorism with dates, key researchers, and connections to teaching and learning.
 Discuss the implications of behaviorism for instructional (learning) design.
 Share your opinion on the strengths and limitations of behaviorism in your chosen instructional design context. Examples include education (K–12 or higher education), corporate training, non-profits, or another professional context you are interested in.  
