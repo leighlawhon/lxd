@@ -1,16 +1,14 @@
 main:
   - title: "LXD Course"
     children:
-      - title: "Learning Theory"
+      - title: "Learning Theory (LDT100x)"
         url: /pages/learning-theory
-      - title: "Instructional Design Models"
+      - title: "Instructional Design Models (LDT200x)"
         url: /pages/id-models
-      - title: "Digital Media Design"
+      - title: "Digital Media Design (LDT300x)"
         url: /pages/digital-media-design
-      - title: "Capstone"
+      - title: "Capstone  (LDT400x)"
         url: /pages/capstone
-      - title: "Instructional Design Document"
+      - title: "Instructional Design Document )(IDD)"
         url: /pages/idd
-      - title: "LDT100x"
-        url: /pages/ldt100x  
   
