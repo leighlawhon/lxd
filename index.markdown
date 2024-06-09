@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![photo of Leigh Lawhon](1661435563654.jpeg){: .avatar}
+![photo of Leigh Lawhon]({{ site.baseurl }}/assets/1661435563654.jpeg){: .avatar}
 
 Hello, and thank you for visiting my portfolio. My name is Leigh, and I bring a unique blend of skills in UI design, software development, and a deep passion for educational technology. Over the years, I've dedicated myself to creating innovative learning experiences that seamlessly integrate technology with pedagogy.
 
