@@ -102,7 +102,7 @@
     border-radius: 10px;
     color: #333;
     display: block;
-    padding: 1.25rem;
+    padding: .5rem;
     position: relative
 }
 
@@ -134,14 +134,14 @@
     z-index: 2
 }
 
-.timeline__content h2 {
-    font-size: 1.25rem;
+.timeline__content h3 {
+    font-size: .8rem;
     font-weight: 700;
     margin: 0 0 .625rem
 }
 
 .timeline__content p {
-    font-size: .9375rem;
+    font-size: .7rem;
     line-height: 1.5;
     margin-bottom: 10px
 }
