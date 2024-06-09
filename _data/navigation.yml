@@ -2,13 +2,13 @@ main:
   - title: "LXD Course"
     children:
       - title: "Learning Theory"
-        url: /pages/learning-theory/
+        url: /pages/learning-theory
       - title: "Instructional Design Models"
-        url: /pages/id-models/
+        url: /pages/id-models
       - title: "Digital Media Design"
-        url: /pages/digital-media-design/
+        url: /pages/digital-media-design
       - title: "Capstone"
-        url: /pages/capstone/
+        url: /pages/capstone
       - title: "Instructional Design Document"
-        url: /pages/idd/
+        url: /pages/idd
   
