@@ -47,10 +47,10 @@ Poor implementations of Gamification I have seen are:
 One behavior I would like to reinforce in online learning is Self-Directed Inquiry-Based Learning, as I believe it is crucial in shaping individuals as life-long learners and reinforces autonomy in education. Additionally, it allows teachers to go beyond "a purveyor of information" and allow them to assume the role of facilitator of learning, motivator, designer of the learning situation, and often joining the students in earnest as a co-learner as they learn instructional skills" (Robinson, et. al., 2020).
 
 To build the behavior, an interface could present core information and then provide follow up questions (neutral stimulus) for the first level of mastery, Curiosity. The goal of this level is introducing the idea of inquiry and investigation. To demonstrate their understanding of the desired behavior, the user would click on question prompts which are: 
-* Personalized, connecting them to what they know (1 pt)
-* Exploratory, encouraging the user to seek out deeper understanding (2 pt)
-* Cross-disciplined, connect the information to other disciplines and techniques (3 pt)
-* Imaginative, encouraging the learner to ask "what if" questions and discover new uses for the information (4 pt)
+* **Personalized,** connecting them to what they know (1 pt)
+* **Exploratory,** encouraging the user to seek out deeper understanding (2 pt)
+* **Cross-disciplined,** connect the information to other disciplines and techniques (3 pt)
+* **Imaginative,** encouraging the learner to ask "what if" questions and discover new uses for the information (4 pt)
 
 For this experience, learners would be rewarded for interacting with points and once they hit a threshold, such as 5 interactions with each of the 4 question types, they would move to the next level (positive reinforcement), Self-Directed Inquiry. For Self-Directed Inquiry, learners would be prompted to ask questions about the information, rather than being provided with it. Acquisition of the behavior would be demonstrated the user rewarded by asking the 4 question types on their own. The goal of this level is to create learners that will explore topics on their own. 
 
@@ -58,7 +58,7 @@ The final level of the Self-Directed Inquiry-Based Learning Mastery would be Tea
 
 Once these levels are achieved, a learner would receive a "Self-Directed Inquiry-Based Learning" badge. However, as described in Gagne's Nine Events of Instruction, the behavior should continue to be practiced enhancing retention. To facilitate this, I may do some user research on a mastery badge that "fades" over time (negative reinforcement) if a user does not utilize this skill. This is similar to the approach taken by Duolingo who's app avatar becomes sad if you do not engage with the app (Enquirer, 2024).
 
-#### Resources
+#### Resources{: #reosurces}
 Enquirer. “Did You Complete Your Lesson Today? The Duolingo Bird Got Old Because You Took Too Long to Complete It.” Cincinnati Enquirer, 5 Apr. 2024, www.cincinnati.com/story/news/2024/04/05/duolingo-bird-duo-sad-old/73218336007.
 
 Gupta, Garima. “Pros And Cons Of Gamification.” eLearning Industry, 28 Apr. 2023, elearningindustry.com/pros-and-cons-of-gamification.  
@@ -66,11 +66,6 @@ Gupta, Garima. “Pros And Cons Of Gamification.” eLearning Industry, 28 Apr. 
 Robinson, Jennifer D, and Adam M Persky. “Developing Self-Directed Learners.” American journal of pharmaceutical education vol. 84,3 (2020): 847512. doi:10.5688/ajpe847512
 
 Wang, Yung-Fu, et al. “The key elements of gamification in corporate training – The Delphi method.” Entertainment Computing, vol. 40, Jan. 2022, p. 100463. https://doi.org/10.1016/j.entcom.2021.100463.
-
-
-
-Describe a learning scenario in which behaviorism is the primary learning theory that drives the activity. Do not use an example of something you have experienced firsthand; instead, apply behaviorism to an example you create. Remember, behaviorism is focused on observable behavior, so provide enough detail to explain the behavior you would observe to know if someone learned.
-Include the stimulus and the response in the learning scenario and the types of positive and negative reinforcement in your scenario.
 
 {% include heading_anchors.html level="2" h_text="Week 3" %}
 
