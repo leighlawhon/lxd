@@ -4,11 +4,11 @@ title:  "Learning Theory (LDT100x)"
 ---
 
 
-{% include anchors.html level=2 heading = "Week 1"%}
+{% include heading_anchors.html level=2 heading = "Week 1"%}
 ### Copyright
 For my copyright, I decided to not allow my work for commercial use, ask for attribution, to have anyone who adapts my work to use the same license. I did this as I feel it is the fairest approach.
 
-{% include anchors.html level=2 heading = "Week 2"%}
+{% include heading_anchors.html level=2 heading = "Week 2"%}
 ### Behaviorism
 #### Overview of Behaviorism
 Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment. Two primary components of Behaviorism are Classical Conditioning and Operant Conditioning. 
@@ -72,14 +72,14 @@ Wang, Yung-Fu, et al. “The key elements of gamification in corporate training 
 Describe a learning scenario in which behaviorism is the primary learning theory that drives the activity. Do not use an example of something you have experienced firsthand; instead, apply behaviorism to an example you create. Remember, behaviorism is focused on observable behavior, so provide enough detail to explain the behavior you would observe to know if someone learned.
 Include the stimulus and the response in the learning scenario and the types of positive and negative reinforcement in your scenario.
 
-{% include anchors.html level=2 heading = "Week 3"%}
+{% include heading_anchors.html level=2 heading = "Week 3"%}
 
-{% include anchors.html level=2 heading = "Week 4"%}
+{% include heading_anchors.html level=2 heading = "Week 4"%}
 
-{% include anchors.html level=2 heading = "Week 5"%}
+{% include heading_anchors.html level=2 heading = "Week 5"%}
 
-{% include anchors.html level=2 heading = "Week 6"%}
+{% include heading_anchors.html level=2 heading = "Week 6"%}
 
-{% include anchors.html level=2 heading = "Week 7"%}
+{% include heading_anchors.html level=2 heading = "Week 7"%}
 
-{% include anchors.html level=2 heading = "Week 8"%}
+{% include heading_anchors.html level=2 heading = "Week 8"%}
