@@ -4,11 +4,11 @@ title:  "Learning Theory (LDT100x)"
 ---
 
 
-{% include heading_anchors.html level="2" heading = "Week 1"%}
+{% include heading_anchors.html level="2" h_text="Week 1"%}
 ### Copyright
 For my copyright, I decided to not allow my work for commercial use, ask for attribution, to have anyone who adapts my work to use the same license. I did this as I feel it is the fairest approach.
 
-{% include heading_anchors.html level="2" heading = "Week 2"%}
+{% include heading_anchors.html level="2" h_text="Week 2"%}
 ### Behaviorism
 #### Overview of Behaviorism
 Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment. Two primary components of Behaviorism are Classical Conditioning and Operant Conditioning. 
