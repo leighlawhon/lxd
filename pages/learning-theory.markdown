@@ -72,14 +72,14 @@ Wang, Yung-Fu, et al. “The key elements of gamification in corporate training 
 Describe a learning scenario in which behaviorism is the primary learning theory that drives the activity. Do not use an example of something you have experienced firsthand; instead, apply behaviorism to an example you create. Remember, behaviorism is focused on observable behavior, so provide enough detail to explain the behavior you would observe to know if someone learned.
 Include the stimulus and the response in the learning scenario and the types of positive and negative reinforcement in your scenario.
 
-{% include heading_anchors.html level="2" heading="Week 3" %}
+{% include heading_anchors.html level="2" h_text="Week 3" %}
 
-{% include heading_anchors.html level="2" heading="Week 4" %}
+{% include heading_anchors.html level="2" h_text="Week 4" %}
 
-{% include heading_anchors.html level="2" heading="Week 5" %}
+{% include heading_anchors.html level="2" h_text="Week 5" %}
 
-{% include heading_anchors.html level="2" heading="Week 6" %}
+{% include heading_anchors.html level="2" h_text="Week 6" %}
 
-{% include heading_anchors.html level="2" heading="Week 7" %}
+{% include heading_anchors.html level="2" h_text="Week 7" %}
 
-{% include heading_anchors.html level="2" heading="Week 8" %}
+{% include heading_anchors.html level="2" h_text="Week 8" %}
