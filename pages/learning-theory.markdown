@@ -10,17 +10,18 @@ For my copyright, I decided to not allow my work for commercial use, ask for att
 
 ## Week 2
 ### Behaviorism
-#### Overview
+#### Overview of Behaviorism
 Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment. Two primary components of Behaviorism are Classical Conditioning and Operant Conditioning. 
 
 Some key dates in the development of Behaviorism are:
 {% include behaviorism_timeline.html %}
 
-#### Dog Training and Behaviorism
+#### Implications of Behaviorism in Dog Training
 I associate Classical Conditioning with animal training and my experience training guide dogs for the blind with the Guide Dog Foundation. Our techniques required us to observe natural responses and, using positive reinforcement, shape the dog's behavior into a new response and helping it associate what it knows to new responses. An example of this is "the boop". Because handlers/owners give the dogs treats by holding up food to the dog's snout, they become conditioned to associate the hand (a neutral stimulus) near the snout as the opportunity for food. This behavior can then be shaped to "the boop," where the handler holds their hand near the dog’s snout and saying the word "touch." When the dog becomes curious it touches its nose to the hand to look for food creating the desired behavior (conditioned response) that the dog is rewarded for. This behavior is reinforced through practice.
 
 Once the dog has this association it is transferred to a more general behavior, "touch." Touch is the association of touching an item such as a door or light switch on voice command. The behavior is transferred by first associating the "touch" with the hand to a pointing stick. This behavior is then graduated to using the stick with the voice command, while pointing at the desired object. Eventually, the dog understands the voice command and you can train it to touch many objects, including a panel switch for a light, which allows it to turn lights on and off for their owner. 
 
+#### Strengths and Limitations of Behaviorism in Dog Training
 As the course content mentions the Operant Conditioning, reinforcers and punishers can be used for dog training as well. Though the Guide Dog Foundation techniques avoided using Positive Punishments with their dogs, the other three techniques—Positive Reinforcement, Negative Punishment, and Negative Reinforcement, worked quite well. 
 
 However, as a puppy trainer for 7 years, I became keenly aware that younger dogs and more "stubborn" and "high energy" dogs were too distracted and excited, focusing on behaviors such as pulling and jumping, to make the connection with the more beneficial reinforcements and punishment techniques. With my personal dogs, I have effectively utilized Positive Punishments, ensuring not to overuse them or cause the dog harm. My personal observations have been that without fully illustrating the contrast of punishment and reinforcement for the dog, the dog does not learn as quickly and may not adopt the conditioned response.
@@ -56,8 +57,6 @@ For this experience, learners would be rewarded for interacting with points and 
 The final level of the Self-Directed Inquiry-Based Learning Mastery would be Teaching the Topic. As an instructor and curriculum builder, I have discovered that my mastery of a topic has been primarily developed when I must teach a topic. The role of an instructor or curriculum builder forces the individual to think through what questions will be asked from a variety of experiences and drives the individual to be prepared to be able to answer the questions, creating a Negative Reinforcement scenario by delaying the embarrassment of "not knowing."
 
 Once these levels are achieved, a learner would receive a "Self-Directed Inquiry-Based Learning" badge. However, as described in Gagne's Nine Events of Instruction, the behavior should continue to be practiced enhancing retention. To facilitate this, I may do some user research on a mastery badge that "fades" over time (negative reinforcement) if a user does not utilize this skill. This is similar to the approach taken by Duolingo who's app avatar becomes sad if you do not engage with the app (Enquirer, 2024).
-
-
 
 #### Resources
 Enquirer. “Did You Complete Your Lesson Today? The Duolingo Bird Got Old Because You Took Too Long to Complete It.” Cincinnati Enquirer, 5 Apr. 2024, www.cincinnati.com/story/news/2024/04/05/duolingo-bird-duo-sad-old/73218336007.
