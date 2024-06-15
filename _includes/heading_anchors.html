@@ -1,3 +1,5 @@
-<h{% include.level %} id='{% include.heading | replace: " ", "_"%}' class='linked-heading'>
-    <a href='#{% include.heading | replace: " ", "_" %}'>#</a> {% include.heading %}
+{% assign heading=include.heading %}
+
+<h{% include.level %} id="{% heading | slugify %}" class='linked-heading'>
+    <a href="#{% heading | slugify %}">#</a> {% include.heading %}
 </h{% include.level %}>
