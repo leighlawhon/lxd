@@ -58,7 +58,9 @@ The final level of the Self-Directed Inquiry-Based Learning Mastery would be Tea
 
 Once these levels are achieved, a learner would receive a "Self-Directed Inquiry-Based Learning" badge. However, as described in Gagne's Nine Events of Instruction, the behavior should continue to be practiced enhancing retention. To facilitate this, I may do some user research on a mastery badge that "fades" over time (negative reinforcement) if a user does not utilize this skill. This is similar to the approach taken by Duolingo who's app avatar becomes sad if you do not engage with the app (Enquirer, 2024).
 
-#### Resources {: #reosurces}
+#### Resources 
+{: #reosurces}
+
 Enquirer. “Did You Complete Your Lesson Today? The Duolingo Bird Got Old Because You Took Too Long to Complete It.” Cincinnati Enquirer, 5 Apr. 2024, www.cincinnati.com/story/news/2024/04/05/duolingo-bird-duo-sad-old/73218336007.
 
 Gupta, Garima. “Pros And Cons Of Gamification.” eLearning Industry, 28 Apr. 2023, elearningindustry.com/pros-and-cons-of-gamification.  
