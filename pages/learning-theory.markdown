@@ -3,8 +3,8 @@ layout: archive
 title:  "Learning Theory (LDT100x)"
 ---
 ## Table of Contents
-* {% include heading_anchors.html level="span" h_text="Week 2: Behaviorism"%}
 * {% include heading_anchors.html level="span" h_text="Week 1: Copyright"%}
+* {% include heading_anchors.html level="span" h_text="Week 2: Behaviorism"%}
 * {% include heading_anchors.html level="span" h_text="Week 3: Cognitivism" %}
 
 {% include heading_anchors.html level="h2" h_text="Week 1: Copyright"%}
