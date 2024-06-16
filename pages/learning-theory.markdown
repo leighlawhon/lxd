@@ -103,14 +103,16 @@ Whereas Behaviorism focuses on how to shape behaviors through external stimulus,
 * Feedback is essential for learning as it helps learners understand their progress and areas for improvement.
 
 #### The Process
-##### 1. Perception
+
+**1. Perception**
 Sensory information is recieved:
 * Touch
 * Sight
 * Soundh
 * Taste
 * Smell 
-##### 2. Executive Processes
+
+**2. Executive Processes**
 Executive Processes is responsible for:
 * Directing attention
 * Planning next steps
@@ -119,20 +121,20 @@ Executive Processes is responsible for:
 * Selecting learning strategies
 * Regulatign motivation
 
-##### 3. Short-term or working memory
+**3. Short-term or working memory**
 There are four elements that processes sensory information:
 * **Central executive**, which controls attention and mental resources
 * **Phonological loop**, which processes verbal and auditory information
 * **Visuospatial sketchpad**, which works on visual and spatial information
 * **Episodic buffer**, which integrates information from the previous processors with information from long-term memory to make sense of it all
 
-#### 4. Encoding
+**4. Encoding**
 Encoding is the process of organizing the information we recieve, connecting new information to what is already known, and includes:
 * Creating hierarchies
 * Mnemonic techniques
 * Mental imagery
 
-#### 5. Long-Term Memory
+**5. Long-Term Memory**
 Long-term memory is the ability to store information, lon-term, and be able to retrieve them as images, thoughts and idea. Long-term memeory is easier to retrieve when it has been associated with meaningful connections, organized, elaborated upon, and frequently retrieved or practiced.
 
 {% include cognativism_timeline.html %}
