@@ -2,12 +2,15 @@
 layout: archive
 title:  "Learning Theory (LDT100x)"
 ---
+## Table of Contents
+* {% include heading_anchors.html level="span" h_text="Week 2: Behaviorism"%}
+* {% include heading_anchors.html level="span" h_text="Week 1: Copyright"%}
+* {% include heading_anchors.html level="span" h_text="Week 3: Cognitivism" %}
 
-
-{% include heading_anchors.html level="2" h_text="Week 1: Copyright"%}
+{% include heading_anchors.html level="h2" h_text="Week 1: Copyright"%}
 For my copyright, I decided to not allow my work for commercial use, ask for attribution, to have anyone who adapts my work to use the same license. I did this as I feel it is the fairest approach.
 
-{% include heading_anchors.html level="2" h_text="Week 2: Behaviorism"%}
+{% include heading_anchors.html level="h2" h_text="Week 2: Behaviorism"%}
 ### Overview of Behaviorism
 Behaviorism is the theory that learning is acquired through conditioning, which occurs through interaction with the learner's environment. Two primary components of Behaviorism are Classical Conditioning, or learning through association, and Operant Conditioning, or learning through the consequences of voluntary behaviors. 
 
@@ -83,7 +86,7 @@ Robinson, Jennifer D, and Adam M Persky. “Developing Self-Directed Learners.�
 Wang, Yung-Fu, et al. “The key elements of gamification in corporate training – The Delphi method.” Entertainment Computing, vol. 40, Jan. 2022, p. 100463. https://doi.org/10.1016/j.entcom.2021.100463.
 {: .resource}
 
-{% include heading_anchors.html level="2" h_text="Week 3: Cognitivism" %}
+{% include heading_anchors.html level="h2" h_text="Week 3: Cognitivism" %}
 ### Overview of Cognitivism
 Whereas Behaviorism focuses on how to shape behaviors through external stimulus, Cognitivism focuses on what is going on in the mind as learning occurs. Cognitivism investigates the imapct of thought on learning, rather than the simple reactions to stimuli such as the involuntary drooling of a dog when being fed and how those reactions can be assigned to other behaviors. Cognitivism also introduces the concept of cognitive load and the variability of individual's ability to intake information which can be influenced by presentation methods, content length, and indiviual's cognitiv abilities, and environmental, social, and emotional context, to name a few.
 
@@ -163,12 +166,12 @@ The "Exploring the boundaries between religion and culture" course uses the foll
 
 
 
-{% include heading_anchors.html level="2" h_text="Week 4" %}
+{% include heading_anchors.html level="h2" h_text="Week 4" %}
 
-{% include heading_anchors.html level="2" h_text="Week 5" %}
+{% include heading_anchors.html level="h2" h_text="Week 5" %}
 
-{% include heading_anchors.html level="2" h_text="Week 6" %}
+{% include heading_anchors.html level="h2" h_text="Week 6" %}
 
-{% include heading_anchors.html level="2" h_text="Week 7" %}
+{% include heading_anchors.html level="h2" h_text="Week 7" %}
 
-{% include heading_anchors.html level="2" h_text="Week 8" %}
+{% include heading_anchors.html level="h2" h_text="Week 8" %}
