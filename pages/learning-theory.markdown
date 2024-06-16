@@ -148,10 +148,12 @@ Long-term memory is the ability to store information, lon-term, and be able to r
 The implications of Cognitivism in education is that learning is influenced by many internal and external forces and processes and requires a dynamic, in-the-moment, personalized approach, which can be very difficult for teachers or LXD to provide. Most lessons are built in a "one size fits all" manner which speaks to the median learner and is based on standards. Where a teacher in a classroom of 20 students, for example, can try to adapt their content (examples, references, scaffolding) on the fly, it is more practical for this type of dynamism should likely be performed by a computer, which can more easily maintain large quanities of variables. With recent advances in Machine Learning and Artificial Intelegence, personalization seems more possible than ever, however, in order to truely execute optimized a cognitive learning experience, a system would need to have a model of each learner which indcludes, not only what they already know, but how they organize the information, how strong their recall is, and internal and external factors that impact them, both long-term and in the moment.
 
 ### Strengths and Limitations of Cognitivism 
-I believe one of the strengths of Cognitivism is that it helps to breakdown and illustrate the way an individual learns. However, as it introduces enumorous variables, it makes it a difficult theory to practice in a classroom setting. In order to support individual learners, a system and/or instructor would need to: 
+I believe one of the strengths of Cognitivism is that it helps to breakdown and illustrate the way an individual learns. However, as it introduces enumorous, multi-dimensional variables, cognitivism is a difficult theory to practice in a classroom setting. For example, if you look at Bruner's "spiral curriculum," concept and a learner's need to "unfold in a progressive and interconnected manner, building upon previously acquired knowledge" it is clear that this state is difficult to achieve if a teacher or system has no, or limitted understanding of a learner's aquired knowledge. Which is why, I believe standards were created. It is easier to teach a group of students that have met certain requirements—"5th grade students should know..." than it is to teach a student where they are.
+
+In order to support individual learners, a system and/or instructor would need to: 
 * know what a learner already knows to reduce redundant information
-* present in a way that makes sense to a learner
-* break down lessons into units that make sense to a learner and introduce them to learners in a way that mathes their abilities and personal organization
+* present in a way that makes sense to a learner and their rediness
+* break down lessons into units that make sense to a learner and introduce them to learners in a way that mathes their abilities and personal organization or schema
 * be adaptive to ever changing understaning and preceptions
 * provide learners with agency in their learning experience
 
@@ -159,13 +161,15 @@ I believe one of the strengths of Cognitivism is that it helps to breakdown and 
 ### Cognativisim and Personalization
 Many learning software applications claim to be personalized to learners, especially in recent months where AI has exploded. 
 
-One application that looks promissing in the arena of ppersonalization for learners is MindPrint Learning, whos assessment is based on cognitive theory.
+One application that looks promissing in the arena of personalization for learners is MindPrint Learning, whos assessment is based on cognitive theory.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/KncUod28MOk" frameborder="0" allowfullscreen></iframe>
 
+
+
 ### Cognitivism Usage in Instructional Material
 
-I chose to assess the use of cognitivism in a free course by The Open University call [Exploring the boundaries between religion and culture](https://www.open.edu/openlearn/history-the-arts/exploring-the-boundaries-between-religion-and-culture/content-section-0?active-tab=description-tab){:target="_blank"}. This course uses Inquiry-Based Learning (IBL) to explore the relationship between religion and culture.
+I chose to assess the use of cognitivism in a free course by The Open University call [Exploring the boundaries between religion and culture](https://www.open.edu/openlearn/history-the-arts/exploring-the-boundaries-between-religion-and-culture/content-section-0?active-tab=description-tab){:target="_blank"}. This course uses Inquiry-Based Learning (IBL) to explore the relationship between religion and culture. Using Vygotsky’s Zone Of Proximal Development (ZPD) and the "More Knowledgeable Other," which can include technology systems, the incorporation of questions, either/or, or both/and helps learners develop their own thoughts, while first being presented with a form of inquiry that a learner can mimic.
 
 #### Cognitivism Principles Used
 The "Exploring the boundaries between religion and culture" course uses the following principles:
@@ -174,8 +178,6 @@ The "Exploring the boundaries between religion and culture" course uses the foll
 2. 
 
 ### Resources
-
-
 
 {% include heading_anchors.html level="h2" h_text="Week 4" %}
 
