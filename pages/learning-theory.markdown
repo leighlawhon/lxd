@@ -154,6 +154,10 @@ I believe one of the strengths of Cognitivism is that it helps to breakdown and 
 ### Cognativisim and Personalization
 Many learning software applications claim to be personalized to learners, especially in recent months where AI has exploded. 
 
+One application that looks promissing in the arena of ppersonalization for learners is MindPrint Learning
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=KncUod28MOk" frameborder="0" allowfullscreen></iframe>
+
+
 ### Cognitivism Usage in Instructional Material
 
 I chose to assess the use of cognitivism in a free course by The Open University call [Exploring the boundaries between religion and culture](https://www.open.edu/openlearn/history-the-arts/exploring-the-boundaries-between-religion-and-culture/content-section-0?active-tab=description-tab){:target="_blank"}. This course uses Inquiry-Based Learning (IBL) to explore the relationship between religion and culture.
