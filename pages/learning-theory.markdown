@@ -105,6 +105,7 @@ Whereas Behaviorism focuses on how to shape behaviors through external stimulus,
 #### The Process
 
 **1. Perception**
+
 Sensory information is recieved:
 * Touch
 * Sight
@@ -113,6 +114,7 @@ Sensory information is recieved:
 * Smell 
 
 **2. Executive Processes**
+
 Executive Processes is responsible for:
 * Directing attention
 * Planning next steps
@@ -122,6 +124,7 @@ Executive Processes is responsible for:
 * Regulatign motivation
 
 **3. Short-term or working memory**
+
 There are four elements that processes sensory information:
 * **Central executive**, which controls attention and mental resources
 * **Phonological loop**, which processes verbal and auditory information
@@ -129,12 +132,14 @@ There are four elements that processes sensory information:
 * **Episodic buffer**, which integrates information from the previous processors with information from long-term memory to make sense of it all
 
 **4. Encoding**
+
 Encoding is the process of organizing the information we recieve, connecting new information to what is already known, and includes:
 * Creating hierarchies
 * Mnemonic techniques
 * Mental imagery
 
 **5. Long-Term Memory**
+
 Long-term memory is the ability to store information, lon-term, and be able to retrieve them as images, thoughts and idea. Long-term memeory is easier to retrieve when it has been associated with meaningful connections, organized, elaborated upon, and frequently retrieved or practiced.
 
 {% include cognativism_timeline.html %}
@@ -154,9 +159,9 @@ I believe one of the strengths of Cognitivism is that it helps to breakdown and 
 ### Cognativisim and Personalization
 Many learning software applications claim to be personalized to learners, especially in recent months where AI has exploded. 
 
-One application that looks promissing in the arena of ppersonalization for learners is MindPrint Learning
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=KncUod28MOk" frameborder="0" allowfullscreen></iframe>
+One application that looks promissing in the arena of ppersonalization for learners is MindPrint Learning, whos assessment is based on cognitive theory.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KncUod28MOk" frameborder="0" allowfullscreen></iframe>
 
 ### Cognitivism Usage in Instructional Material
 
